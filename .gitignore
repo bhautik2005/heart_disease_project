@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+*.pkl
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# logs
+*.log
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+*.pkl
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# logs
+*.log
