@@ -139,8 +139,8 @@ You can add screenshots of your frontend here:
 
 scss
  
-![App Screenshot](frontend/public/screenshot.png)
-![App Screenshot](frontend/public/screenshot.png)
+![App Screenshot](https://github.com/bhautik2005/heart_disease_project/blob/71fde813e4d4ef5cd860596763cfb9809a597102/image_1.jpg))
+![App Screenshot](https://github.com/bhautik2005/heart_disease_project/blob/71fde813e4d4ef5cd860596763cfb9809a597102/image.jpg))
 
 🧰 Requirements
 Backend
