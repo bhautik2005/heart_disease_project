@@ -64,7 +64,7 @@ cd heart_disease_api
 
 # create virtual environment
 python -m venv venv
-# activate venv
+## activate venv
 # (Windows)
 venv\Scripts\activate
 # (Mac/Linux)
