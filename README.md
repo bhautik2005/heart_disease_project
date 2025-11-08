@@ -65,15 +65,15 @@ cd heart_disease_api
 # create virtual environment
 python -m venv venv
 ## activate venv
-# (Windows)
+## -> Windows
 venv\Scripts\activate
-# (Mac/Linux)
+## -> Mac/Linux
 source venv/bin/activate
 
-# install dependencies
+## install dependencies
 pip install -r requirements.txt
 
-# run backend server
+## run backend server
 python app_api.py
 Server will start on:
 
@@ -160,11 +160,8 @@ axios
 🧑‍💻 Author
 Your Name
 
-🌐 GitHub: @your-username
+🌐 GitHub: @bhautik2005
 
-💼 LinkedIn: [your-linkedin-url]
-
-✉️ Email: your-email@example.com
 
 🪪 License
 This project is licensed under the MIT License.
