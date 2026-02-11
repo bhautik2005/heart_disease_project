@@ -30,7 +30,7 @@ The frontend interacts with the API to display predictions to users.
 ---
 
 ## 📁 Folder Structure
-'''
+```
 heart_disease_project/
 ├── frontend/ # React frontend
 │ ├── src/
@@ -47,7 +47,7 @@ heart_disease_project/
 ├── .gitignore
 ├── README.md
 └── LICENSE (MIT)
-'''
+```
 
 
 ## 🚀 How to Run Locally
